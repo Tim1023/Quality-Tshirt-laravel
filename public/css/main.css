@@ -1,0 +1,100 @@
+body{
+	
+	//background-image: url(../img/wall.jpg);
+	background: #CFD8DC;
+	font-family: 'Amaranth', sans-serif;
+}
+
+footer{
+	background: #F1F3F4;
+	font-family: 'Amaranth', sans-serif;
+	text-align: center;
+}
+
+footer p{
+	font-family: 'Amaranth', sans-serif;
+	text-align: justify;
+}
+
+ul.redes li{
+	display: inline-block;
+}
+
+.product-block{
+	background: #F1F3F4;
+	border-radius: .9em;
+	padding: 1.5em;
+}
+
+/* Catalogo de productos estilos del grid js*/
+
+#products {
+	position: relative;
+	max-width: 100%;
+	width: 100%;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+
+.product-info{
+	background: #F1F3F4;	
+	margin-top: 20px;
+}
+.white-panel {
+	position: absolute;
+	background: #F1F3F4;
+	padding: 22px;
+}
+
+.white-panel h1 {
+	font-size: 5em;
+}
+
+.white-panel h1 a {
+	color: #A92733;
+}
+
+.white-panel:hover {
+	box-shadow: 3px 3px 6px rgba(0,1,2,0.3);
+	margin-top: -2px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.table-cart{
+	background: #FFF;
+	border-radius: 1em;
+	margin-bottom: 25px;
+	padding: 1em;
+}
+
+.table-cart img{
+	width: 50px;
+}
+
+
+.fa{
+	font-size: 22px;
+}
+
+.faa{
+	font-size: 17px;
+}
+#image{
+	position: relative;
+    top:  -8px;
+    left: 2px;
+}
+
+.slide{
+	top: -22px;
+}
+
+
+
